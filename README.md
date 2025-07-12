@@ -15,6 +15,7 @@ To visualize and compare marketing performance metrics (CTR, CPC, CPM, ROI, Conv
 
 ## 🗂 Files
 -[Looker Studio](https://lookerstudio.google.com/reporting/af71db73-3f22-4143-b080-4eb5ac56d888): link of the dashboard
+-[Kaggle](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset): link of the sample dataset
 
 
 ##  About the Developer
